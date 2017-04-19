@@ -1,15 +1,11 @@
-
-Instructor: Dr.Reiter
-Course: CS4110
-Author: Xinxin Wang
 # Compiler Design
 
 A baby pascal compiler
 
 ## Installation
 
-Visual Studio, CLion or CodeBlock
-Link of configuration of CLion(Chinese): http://blog.csdn.net/shouwangzhelv/article/details/54919235
++ Visual Studio, CLion or CodeBlock
++ Link of configuration of CLion(Chinese) http://blog.csdn.net/shouwangzhelv/article/details/54919235
 
 ## Usage
 
@@ -25,7 +21,7 @@ TODO: Write usage instructions
 
 ## History
 
-TODO: Write history
++ Add description of project and use README template
 
 ## Credits
 
@@ -33,4 +29,6 @@ TODO: Write credits
 
 ## License
 
-TODO: Write license
++ Instructor: Dr.Eddie Reiter
++ Course: CS4110 Compiler Design
++ Author: Xinxin Wang
