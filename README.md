@@ -5,10 +5,8 @@ A baby pascal compiler
 ## Installation
 
 + IDE: Visual Studio, CLion(preferred) or CodeBlock
-+ Link of configuration of CLion 
-    http://stackoverflow.com/questions/33267305/how-to-setup-clion-for-compile-and-run
-+ Link of configuration of CLion(Chinese) 
-    http://blog.csdn.net/shouwangzhelv/article/details/54919235
++ [Config of CLion](http://stackoverflow.com/questions/33267305/how-to-setup-clion-for-compile-and-run)
++ [Config of CLion - Chinese](http://blog.csdn.net/shouwangzhelv/article/details/54919235)
 
 ## Components
 
@@ -18,7 +16,7 @@ A baby pascal compiler
 3. Semantic Analyzer (Parser + Symbol Table)
 4. Code Generation 
 
-## Implement
+## Docs
 
 0. [Symbol Table](./demos/symbol-table-demo/SymTable.md)
 1. Scanner
@@ -43,3 +41,4 @@ A baby pascal compiler
 + Instructor: Dr.Eddie Reiter
 + Course: CS4110 Compiler Design
 + Author: Xinxin Wang
++ [Contact](mwangxx@gmail.com)
