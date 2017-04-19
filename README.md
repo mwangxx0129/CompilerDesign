@@ -18,13 +18,13 @@ A baby pascal compiler
 3. Semantic Analyzer (Parser + Symbol Table)
 4. Code Generation 
 
-## Implement each component one by one
+## Implement
 
- 0. Symbol Table
- 1. Scanner
- 2. Parser
- 3. Parser + Symbol Table
- 4. Code Generation 
+0. [Symbol Table](./demos/symbol-table-demo/SymTable.md)
+1. Scanner
+2. Parser
+3. Parser + Symbol Table
+4. Code Generation 
 
 ## Contributing
 
@@ -37,10 +37,6 @@ A baby pascal compiler
 ## History
 
 + Add description of project and use README template
-
-## Credits
-
-TODO: Write credits
 
 ## License
 
