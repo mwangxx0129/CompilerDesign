@@ -31,3 +31,12 @@
 + { : open a scope
 + } : close a scope
 + a-z: identifier
+
+# Menu
+
+```
+|----1. openScope    2.insert      3. findinCurScope 4. findinAllScopes ------|
+|----5. closeScope   6. display    7. clear screen   8. exit------------------|
+```
+
+
