@@ -41,4 +41,4 @@ A baby pascal compiler
 + Instructor: Dr.Eddie Reiter
 + Course: CS4110 Compiler Design
 + Author: Xinxin Wang
-+ [Contact](mwangxx@gmail.com)
++ Email: mwangxx@gmail.com
