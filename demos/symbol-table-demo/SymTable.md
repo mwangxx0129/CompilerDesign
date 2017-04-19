@@ -1,4 +1,6 @@
-# Data Structure
+# Symbol Table
+
+## Data Structure
  + HashTable
     + function: storing symbols with scope
     + key: scopeNum_identifierName     `e.g. 2_a` 
@@ -17,7 +19,7 @@
     + function: saving scope number
      
  
-# test case
+## Test case
 
 ```
 {               # open scope 
@@ -32,7 +34,7 @@
 + } : close a scope
 + a-z: identifier
 
-# Menu
+## Menu
 
 ```
 |----1. openScope    2.insert      3. findinCurScope 4. findinAllScopes ------|
